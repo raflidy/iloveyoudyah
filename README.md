@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>I Love You Dyah 😘</title>
+  <title>I LOVE YOU KICIKKK 😘</title>
   <style>
     body {
       margin: 0;
@@ -74,14 +73,14 @@
 <body>
 
   <div class="heart">💘</div>
-  <h1>Hai Dyah Rizky Nur Anggraini 😚</h1>
+  <h1>Haloo Dyah Rizky Nur Anggraini 😚</h1>
   <p>Aku punya pengumuman penting nih...</p>
-  <p><strong>AKU CINTA KAMU BANGETTT 💖💖💖</strong></p>
-  <p>Saking cintanya, aku rela makan seblak level 10 demi kamu! 😱🌶️</p>
+  <p><strong>AKU CINTA KAMU BANGETTT hehehehehehe 💖💖💖</strong></p>
+  <p>Semanhattt belajarrr di smasaaa yaaa sayaaangg ! 😱🌶️</p>
   <div class="heart">💞</div>
 
   <div class="footer">
-    Dari pacarmu yang ngebucin 24/7 🐶❤️
+    Dari pacarmu yang cakepp ga adaa obatt nihh ❤️
   </div>
 
   <!-- Bubble Hati Terbang -->
